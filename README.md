@@ -2,7 +2,7 @@
 
 **Student:** VISHAAL S | **Roll No:** AA.SC.P2MCA24077071
 
-A **simplified** Zero-Knowledge Proof authentication system that's easy to understand and explain.
+A **simplified** Zero-Knowledge Proof authentication system.
 
 ---
 
@@ -86,9 +86,9 @@ forge script script/Deploy.s.sol:DeploySimpleZKAuth \
 
 ---
 
-## 📚 For Your Presentation
+## 📚 For Presentation
 
-### Explain Like This:
+### Explaination:
 
 **Q: What is ZKAuth?**
 > "It's a privacy-preserving login system for Web3. Instead of exposing your wallet address when you log in, you prove you own a wallet without revealing which one."
