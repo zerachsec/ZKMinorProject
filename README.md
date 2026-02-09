@@ -224,7 +224,7 @@ cast call <CONTRACT> \
 
 ---
 
-## 🎯 Key Points for Presentation
+## 🎯 Key Points: 
 
 ### 1. Problem Statement
 "Traditional Web3 authentication exposes user identity"
